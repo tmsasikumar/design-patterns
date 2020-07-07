@@ -1,6 +1,7 @@
 package com.design.pattern.java_observable;
 
 
+import java.util.Observable;
 
 public class WeatherStation {
     public static void main(String[] args) {
